@@ -1,0 +1,16 @@
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\bin\Release\PumpkinTrade.dll
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\bin\Release\PumpkinTrade.pdb
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\bin\Release\Unity.Abstractions.dll
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Release\PumpkinTrade.csproj.CoreCompileInputs.cache
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Release\PumpkinTrade.csproj.CopyComplete
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Release\PumpkinTrade.dll
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Release\PumpkinTrade.pdb
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Release\PumpkinTrade.csprojAssemblyReference.cache
+D:\Personal\PumpkinTrade\PumpkinTrade\PumpkinTrade\bin\Release\PumpkinTrade.dll
+D:\Personal\PumpkinTrade\PumpkinTrade\PumpkinTrade\bin\Release\PumpkinTrade.pdb
+D:\Personal\PumpkinTrade\PumpkinTrade\PumpkinTrade\bin\Release\Unity.Abstractions.dll
+D:\Personal\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Release\PumpkinTrade.csprojAssemblyReference.cache
+D:\Personal\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Release\PumpkinTrade.csproj.CoreCompileInputs.cache
+D:\Personal\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Release\PumpkinTrade.csproj.CopyComplete
+D:\Personal\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Release\PumpkinTrade.dll
+D:\Personal\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Release\PumpkinTrade.pdb

@@ -1,0 +1,8 @@
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\bin\Debug\PumpkinTrade.dll
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\bin\Debug\PumpkinTrade.pdb
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\bin\Debug\Unity.Abstractions.dll
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Debug\PumpkinTrade.csproj.CoreCompileInputs.cache
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Debug\PumpkinTrade.csproj.CopyComplete
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Debug\PumpkinTrade.dll
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Debug\PumpkinTrade.pdb
+C:\Projects\PumpkinTrade\PumpkinTrade\PumpkinTrade\obj\Debug\PumpkinTrade.csprojResolveAssemblyReference.cache
